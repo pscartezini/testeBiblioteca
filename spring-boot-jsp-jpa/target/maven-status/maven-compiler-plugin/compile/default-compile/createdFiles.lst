@@ -1,0 +1,9 @@
+br/com/biblioteca/MainServer.class
+br/com/biblioteca/controller/IndexController.class
+br/com/biblioteca/models/Livro.class
+br/com/biblioteca/repository/EmprestimoDao.class
+br/com/biblioteca/controller/PessoaController.class
+br/com/biblioteca/models/Pessoa.class
+br/com/biblioteca/repository/PessoaDao.class
+br/com/biblioteca/models/Emprestimo.class
+br/com/biblioteca/repository/LivroDao.class
